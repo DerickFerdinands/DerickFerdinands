@@ -1,5 +1,7 @@
 ### Hi there 👋
-<div id="header" align="center">
+<img width="100%" height="500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" />
+<div id="header" align="center">![Blue Purple Modern Every Technology Quotes Dekstop Wallpaper](https://user-images.githubusercontent.com/101160326/195819489-06ce0daa-cb51-48c6-8b29-cc1405b882bb.png)
+
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -9,10 +11,7 @@
 </div>
 https://github.com/DerickFerdinands
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
