@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<p align="center">
-    <a href="https://cdn.dribbble.com/userupload/15359282/file/original-73faef0169652ad1d81cacc6dd08a404.mp4" target="_blank">
-        <img src="https://via.placeholder.com/800x400.png?text=Click+to+watch+the+video" alt="Watch the video" style="width:80%;">
-    </a>
-</p>
+![Your Image Description]([https://your-image-url.com/thumbnail.jpg](https://cdn.dribbble.com/userupload/2535817/file/original-fbf749de9ab3604779419feb08e7f0ed.jpg?resize=1024x768))
+
 
 
 <img width="100%" height="500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" />
