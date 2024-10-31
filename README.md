@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Watch the video](https://via.placeholder.com/800x400.png?text=Click+to+watch+the+video)](https://cdn.dribbble.com/userupload/15359282/file/original-73faef0169652ad1d81cacc6dd08a404.mp4)
+<p align="center">
+    <a href="https://cdn.dribbble.com/userupload/15359282/file/original-73faef0169652ad1d81cacc6dd08a404.mp4" target="_blank">
+        <img src="https://via.placeholder.com/800x400.png?text=Click+to+watch+the+video" alt="Watch the video" style="width:80%;">
+    </a>
+</p>
+
 
 <img width="100%" height="500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" />
 <div id="header" align="center">![Blue Purple Modern Every Technology Quotes Dekstop Wallpaper](https://user-images.githubusercontent.com/101160326/195819489-06ce0daa-cb51-48c6-8b29-cc1405b882bb.png)
