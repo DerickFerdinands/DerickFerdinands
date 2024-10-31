@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-![Your Image Description]([[https://your-image-url.com/thumbnail.jpg](https://cdn.dribbble.com/userupload/2535817/file/original-fbf749de9ab3604779419feb08e7f0ed.jpg?resize=1024x768)](https://cdn.dribbble.com/userupload/2535817/file/original-fbf749de9ab3604779419feb08e7f0ed.jpg?resize=1024x768))
-
-
-
-<img width="100%" height="500" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" />
+<img width="100%" height="500" src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://cdn.dribbble.com/userupload/2535817/file/original-fbf749de9ab3604779419feb08e7f0ed.jpg?resize=1024x768)" />
 <div id="header" align="center">![Blue Purple Modern Every Technology Quotes Dekstop Wallpaper](https://user-images.githubusercontent.com/101160326/195819489-06ce0daa-cb51-48c6-8b29-cc1405b882bb.png)
 
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
