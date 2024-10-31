@@ -1,30 +1,26 @@
-### Hi there 👋
+### 
+<img width="100%" src="https://cdn.dribbble.com/userupload/2535817/file/original-fbf749de9ab3604779419feb08e7f0ed.jpg?resize=1024x768" />
+<img width="100%" src="https://s5.ezgif.com/tmp/ezgif-5-414ec59f0d.gif" />
+# Howdy!! 🌌
 
-<img width="100%" height="500" src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://cdn.dribbble.com/userupload/2535817/file/original-fbf749de9ab3604779419feb08e7f0ed.jpg?resize=1024x768)" />
-<div id="header" align="center">![Blue Purple Modern Every Technology Quotes Dekstop Wallpaper](https://user-images.githubusercontent.com/101160326/195819489-06ce0daa-cb51-48c6-8b29-cc1405b882bb.png)
+Welcome to my GitHub corner of the universe. 🚀
 
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
-https://github.com/DerickFerdinands
+I'm Derick **** Ferdinands, a tech enthusiast who believes in the magic of code to build amazing experiences and solve real-world problems. My journey has taken me through countless lines of JavaScript spells, Python puzzles, and cloud architectures that touch the sky. ✨
+
+Here you'll find:
+- 🛠️ **Innovative Projects**: From concept to creation, my projects are all about bringing ideas to life—whether it's a snappy web app, a robust backend, or something entirely experimental.
+- 📚 **Learning in the Open**: I document my learning process and share my discoveries—because knowledge is better when it's shared.
+- 🌱 **Community Collaborations**: I believe in open source and the power of collective creativity. Contributions are not just welcome—they're encouraged!
+
+🧠 Always exploring, forever learning, and constantly growing.
+
+If you're here to collaborate, learn, or just browse for some inspiration, I hope you enjoy the ride. 
+
+Let's connect and build something extraordinary together! 🌟
+<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif" width="100%" />
+
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-### 🥇technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building applications.
-
-- :zap: In my free time, I Help The Community Solve there Problems And Also Learn For My Self.
-
-- :mailbox:How to reach me: 
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -46,43 +42,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 ---
 
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=DerickFerdinands
+## My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DerickFerdinands&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
-<!--
-**DerickFerdinands/DerickFerdinands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
