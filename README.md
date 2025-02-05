@@ -1,6 +1,5 @@
 ### 
 <img width="100%" src="https://cdn.dribbble.com/userupload/2535817/file/original-fbf749de9ab3604779419feb08e7f0ed.jpg?resize=1024x768" />
-<img width="100%" src="https://s5.ezgif.com/tmp/ezgif-5-414ec59f0d.gif" />
 # Howdy!! 🌌
 
 Welcome to my GitHub corner of the universe. 🚀
