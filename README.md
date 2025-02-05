@@ -40,9 +40,6 @@ Let's connect and build something extraordinary together! 🌟
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
-
-## My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DerickFerdinands&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
 
