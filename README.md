@@ -4,7 +4,7 @@
 
 Welcome to my GitHub corner of the universe. 🚀
 
-I'm Derick **** Ferdinands, a tech enthusiast who believes in the magic of code to build amazing experiences and solve real-world problems. My journey has taken me through countless lines of JavaScript spells, Python puzzles, and cloud architectures that touch the sky. ✨
+I'm Derick Andrew Ferdinands, a tech enthusiast who believes in the magic of code to build amazing experiences and solve real-world problems. My journey has taken me through countless lines of JavaScript spells, Python puzzles, and cloud architectures that touch the sky. ✨
 
 Here you'll find:
 - 🛠️ **Innovative Projects**: From concept to creation, my projects are all about bringing ideas to life—whether it's a snappy web app, a robust backend, or something entirely experimental.
